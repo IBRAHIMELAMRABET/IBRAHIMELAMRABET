@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack developer. My backgrou
   
 - **Frameworks**:
   ![Laravel](https://img.shields.io/badge/Laravel-EF7C2B?style=flat-square&logo=laravel&logoColor=ffffff)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
   ![Angular](https://img.shields.io/badge/Angular-E23237?style=flat-square&logo=angular&logoColor=ffffff)
@@ -33,6 +32,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack developer. My backgrou
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=ffffff)
   ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ffffff)
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=ffffff)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
 
 - **Databases**:
   ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=ffffff)
