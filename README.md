@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack developer. My backgrou
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=ffffff)
-  ![GitLab CI/CD](https://img.shields.io/badge/GitHube%20Actions-FC6D26?style=flat-square&logo=githube&logoColor=ffffff)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-FC6D26?style=flat-square&logo=github&logoColor=ffffff)
   ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)
   ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=ffffff)
 
