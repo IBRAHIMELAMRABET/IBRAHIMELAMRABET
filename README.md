@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate Full-Stack developer. My background in programming, web development, data analysis, BI, and machine learning allows me to contribute effectively to ambitious projects. I'm eager to learn and bring my skills to new challenges.
 
+![git_hub_avatar](https://github.com/user-attachments/assets/8a67139c-8912-4511-ab20-b2cc1c908609)
+
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on enhancing my skills in **web development** and **QA**.
